@@ -7,7 +7,7 @@ It allows users to securely log in, view available flights, select seats, and co
 
 This project is designed as a lightweight academic prototype to demonstrate GUI development, event-driven programming, and Object-Oriented Programming (OOP) concepts in Java.
 
-🚀*** Features***
+*** Features***
  Secure Login System (Basic Authentication)
  ~View Available Flights (Flight No, Destination, Time, Seats)
  ~Select Flights and Book Seats
