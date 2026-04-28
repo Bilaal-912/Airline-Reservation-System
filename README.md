@@ -1,6 +1,6 @@
 # Airline-Reservation-System
 ✈️ Airline Reservation System (Java GUI Project)
-***📌 Overview***
+*** Overview***
 
 The Airline Reservation System is a desktop-based Java application built using Java Swing that simulates a basic flight booking platform.
 It allows users to securely log in, view available flights, select seats, and confirm bookings with real-time seat updates.
